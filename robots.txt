@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evacasinos.github.io/sitemap.xml
